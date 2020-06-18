@@ -1,6 +1,6 @@
 # netcut
 
-To modify packet flow in target to our machine while in MITM attacks
+To modify packet flow in target to our machine while in MITM attacks. For Example, if website is running in target, the website is only loading but background process is displayed in our machine.
 
 Usage:
 
